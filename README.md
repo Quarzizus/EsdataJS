@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Estructuras de datos con JS
 
 Este repositorio es un compedio de mis notas hechas en el curso de [Estructuras de datos con javascript](https://platzi.com/clases/estructuras-datos/) en [Platzi](https://platzi.com/).
