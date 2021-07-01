@@ -2,7 +2,7 @@
 
 Este repositorio es un compedio de mis notas hechas en el curso de [Estructuras de datos con javascript](https://platzi.com/clases/estructuras-datos/) en [Platzi](https://platzi.com/).
 
-####Cuenta con las siguientes estructuras:
+#### Cuenta con las siguientes estructuras:
 
 1. Array
 2. Graph
